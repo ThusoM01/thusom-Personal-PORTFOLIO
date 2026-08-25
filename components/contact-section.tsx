@@ -6,8 +6,8 @@ const CHANNELS = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'thuso.masango@capaciti.org.za',
-    href: 'mailto:thuso.masango@capaciti.org.za',
+    value: 'thusomasango22@gmail.com',
+    href: 'mailto:thusomasango22@gmail.com',
   },
   {
     icon: Phone,
